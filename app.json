@@ -14,24 +14,27 @@
     "SESSION_NAME": {
       "description": "Pyrogram session string",
       "required": true
+      "value": "AgGnG-wApV6hlGfXesJBAj1n4D_ZPT6zH_7pe3Pc0UgZiZdK591PmTt4_9d9-0kiitK_diwTdQGR1Y1XtKodPJCsPXQZN0jCGVL2fygI8Otx4Un_8TnoQGlFF6wQYUQPWLQiaa0C0A6U5nn1NS9gLrdFQudZzK796uwIh9s2c8GdI-zq2Ao9cIj2n_NX73On8RT5RBlaAn94OJbfzcppFNx1WZm3ALYzZbgHZz9txYhg_zTO6tIB3Lewe72V_4XYOQsqCFHfLqUJxsS6acjiGMIPdKY7EIf-nRQHKlYYnguwlm1h3R4_SX5pAD-N8YuKBYs-1fbmny1_tKYN-s2xWv8zW9n6DQAAAAGiXb37AA"
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
       "required": true
+      "value": "7242337140:AAHsaFJqKnjbw4u7iBdGL3__nQzf_F4-kjY"
     },
     "BOT_USERNAME": {
       "description": "Your bot's username without @",
       "required": true
+      "value": "flamingo_musiq_bot"
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": ""
+      "value": "𝐅𝐥𝐚𝐦𝐢𝐧𝐠𝐨🦩"
     },
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "AwesomeSupport"
+      "value": "sohbetqrupnec"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -41,11 +44,12 @@
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
       "required": true
+      "value": "Flamingo_asistan"
     },
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ"
+      "value": "HZLZOL-QBPCEB-RYICWF-ODCMIO-ARQ"
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
@@ -55,11 +59,12 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "LaylaList"
+      "value": "ordendide"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
       "required": true
+      "value": "29341143"
     },
     "PMPERMIT": {
       "description": "Change to turn off",
@@ -69,10 +74,12 @@
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": true
+      "value": "720397f809cd456c38db303f55d1ed0c"
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
+      "value": "7157565306"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
